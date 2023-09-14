@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-patch/static/css/main.7d3dca70.css",
+    "main.js": "/admin-patch/static/js/main.2de58ce1.js",
+    "index.html": "/admin-patch/index.html",
+    "main.7d3dca70.css.map": "/admin-patch/static/css/main.7d3dca70.css.map",
+    "main.2de58ce1.js.map": "/admin-patch/static/js/main.2de58ce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3dca70.css",
+    "static/js/main.2de58ce1.js"
+  ]
+}
