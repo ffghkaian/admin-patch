@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/admin-patch/static/css/main.7d3dca70.css",
-    "main.js": "/admin-patch/static/js/main.9a7aaaff.js",
+    "main.js": "/admin-patch/static/js/main.0e2e154f.js",
     "index.html": "/admin-patch/index.html",
     "main.7d3dca70.css.map": "/admin-patch/static/css/main.7d3dca70.css.map",
-    "main.9a7aaaff.js.map": "/admin-patch/static/js/main.9a7aaaff.js.map"
+    "main.0e2e154f.js.map": "/admin-patch/static/js/main.0e2e154f.js.map"
   },
   "entrypoints": [
     "static/css/main.7d3dca70.css",
-    "static/js/main.9a7aaaff.js"
+    "static/js/main.0e2e154f.js"
   ]
 }
